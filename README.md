@@ -19,8 +19,7 @@
        
         
         <p> My name is Emma Venegoni and I am currently a college student. I am working for my Associate degree in Business. I work at a local florist as a part-time designer. I began working there December of 2018 and it changed my life. I found I job I actually loved to do. I found my career and my dreams. This website is just a documentation of my journey. I have come a long ways from when I first started with flowers and I still have a long ways to go.</p>
-        <h2 id= "posttwo"> Second Post</h2>
-        <h6> March 23, 2020</h6>
+        
         
        
         
