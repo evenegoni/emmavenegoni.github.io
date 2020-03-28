@@ -2,27 +2,27 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Blog</title>
+        <title>Project: Website</title>
     </head>
     <body>
         
-        <h1>Emma's blog</h1>
+        <h1>Emma's Flowers</h1>
 
         <h3>Contents</h3>
         <ul>
-            <li> <a href="#postone">  First post! </a></li>
-            <li> <a href="#posttwo"> Second Post! </a></li>
+            <li> <a href="#postone">  A little about me </a></li>
+            
         </ul>
         
-        <h2 id="postone">First post</h2>
+        <h2 id="postone">A little about me</h2>
         
-        <h6> March 6 2020</h6>
+       
         
-        <p>I am going on the 2nd week of the Coronavirus becoming a disease that altered my life.It started when my school closed. Spring break got suspended for another week and now, starting tomorrow I will be doing my online class. The world is shutting down. We have not been quarentined where I live, but I think it is coming.</p>
+        <p> My name is Emma Venegoni and I am currently a college student. I am working for my Associate degree in Business. I work at a local florist as a part-time designer. I began working there December of 2018 and it changed my life. I found I job I actually loved to do. I found my career and my dreams. This website is just a documentation of my journey. I have come a long ways from when I first started with flowers and I still have a long ways to go.</p>
         <h2 id= "posttwo"> Second Post</h2>
         <h6> March 23, 2020</h6>
         
-        <p> Here is my second post for my blog. </p>
+       
         
         
     </body>
