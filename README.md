@@ -7,6 +7,7 @@
     <body>
         
         <h1>Emma's Flowers</h1>
+        <img src="https://photos.app.goo.gl/u19cbpjqfgKp584Y8">
 
         <h3>Contents</h3>
         <ul>
